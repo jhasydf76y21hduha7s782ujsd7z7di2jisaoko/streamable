@@ -31,13 +31,7 @@ local SelectedDisableKey = getgenv().DisableKey
 	
 --// Notification function	
 	
-function Notify(tx)	
-    SG:SetCore("SendNotification", {	
-        Title = "Evan's Camlock",	
-        Text = tx,	
-Duration = 5	
-    })	
-end	
+
 	
 --// Check if aimlock is loaded	
 	
