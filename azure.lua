@@ -5,7 +5,7 @@ local configs = {
         aimlockkey = "q",
         prediction = 0.116,
         aimpart = 'Head', -- Head, UpperTorso, HumanoidRootPart, LowerTorso
-        notifications = true
+        notifications = false
     }
 }
 
