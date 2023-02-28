@@ -3,7 +3,7 @@ getgenv().AimPart = "Head"
 getgenv().Key = "Q"	
 getgenv().DisableKey = "P"	
 	
-getgenv().FOV = true	
+getgenv().FOV = false	
 getgenv().ShowFOV = false	
 getgenv().FOVSize = 30	
 	
