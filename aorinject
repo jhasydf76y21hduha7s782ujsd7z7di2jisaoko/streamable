@@ -1,7 +1,10 @@
--- Skidded Script by 6akan / aori
+local fps = 400
+ 
+    if setfpscap then
+        setfpscap(fps)
+end
 
-
---- Leaked By Rizy and Tokyo
+wait(2)
 
 getgenv().keybind = "q"
 getgenv().prediction = 0.1258
